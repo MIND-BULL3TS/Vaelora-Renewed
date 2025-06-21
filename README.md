@@ -18,6 +18,6 @@ Master fluid combat and face fearsome foes with Epic Fight, automate marvels wit
 Vaelora Renewed isn’t just a modpack — it’s your gateway to an epic shared world.
 Build your legacy. Forge alliances. Rewrite the realm.
 
-Check out the Bluemap for the brand new Vaelora Renewed!
+Check out the Bluemap for the brand new Vaelora Renewed! https://bit.ly/vaelora
 
-Join the official Vaelora Renewed Discord!
+Join the official Vaelora Renewed Discord! https://bit.ly/VaeloraDiscord
