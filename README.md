@@ -1,7 +1,6 @@
 
-Vaelora Renewed
-
-Adventure Reforged. Worlds Reimagined.
+# Vaelora Renewed
+## Adventure Reforged. Worlds Reimagined.
 
 Vaelora Renewed is a handcrafted modpack built for an all-new community server — seamlessly integrated right into the main menu. Dive into a living realm where ancient magic, industrial ingenuity, and fast-paced combat intertwine.
 
