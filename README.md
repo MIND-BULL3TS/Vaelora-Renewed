@@ -1,5 +1,10 @@
+__     __         _                   ____                                  _ 
+\ \   / /_ _  ___| | ___  _ __ __ _  |  _ \ ___ _ __   _____      _____  __| |
+ \ \ / / _` |/ _ \ |/ _ \| '__/ _` | | |_) / _ \ '_ \ / _ \ \ /\ / / _ \/ _` |
+  \ V / (_| |  __/ | (_) | | | (_| | |  _ <  __/ | | |  __/\ V  V /  __/ (_| |
+   \_/ \__,_|\___|_|\___/|_|  \__,_| |_| \_\___|_| |_|\___| \_/\_/ \___|\__,_|
 
-# Vaelora Renewed
+
 ## Adventure Reforged. Worlds Reimagined.
 
 Vaelora Renewed is a handcrafted modpack built for an all-new community server — seamlessly integrated right into the main menu. Dive into a living realm where ancient magic, industrial ingenuity, and fast-paced combat intertwine.
